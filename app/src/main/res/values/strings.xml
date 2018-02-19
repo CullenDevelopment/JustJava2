@@ -1,0 +1,35 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <!--Order button -->
+    <string name="order">ORDER</string>
+    <!--Quantity required -->
+    <string name = "quantity">QUANTITY</string>
+    <!--Summary of the order-->
+    <string name = "orderSummary">ORDER SUMMARY</string>
+    <!--Universal symbol for plus -->
+    <string name = "plus" translatable="false"> + </string>
+    <!--Universal symbol for minus -->
+    <string name = "minus" translatable="false"> - </string>
+    <!--An integer -->
+    <string name = "number" translatable="false">2</string>
+    <!--Currency symbol-->
+    <string name = "cost" translatable="false">£0</string>
+    <!--Extra items to add to order -->
+    <string name = "toppings">TOPPINGS</string>
+    <!--Body text line for if Whipped Cream topping was required-->
+    <string name = "whipped_cream">Whipped Cream </string>
+    <!--Body text line for if Chocolate topping was required-->
+    <string name = "chocolate">Chocolate </string>
+    <!--Subject line for customer to add own name-->
+    <string name="addName">Add Name </string>
+    <!--Subject line for Java order with customers name-->
+    <string name="Java_order">"Just Java Order for: "</string>
+    <!--Body text line for gratitude-->
+    <string name="thank_you">Thank you!</string>
+    <string name="total" translatable="false">Total: £</string>
+    <string name="Quantity">Quantity: </string>
+    <string name="Chocolate">Add Chocolate?: </string>
+    <string name="add_cream">Add Whipped Cream?: </string>
+    <!--First Body text line for name-->
+    <string name="summary_order_name">Name: </string>
+</resources>
